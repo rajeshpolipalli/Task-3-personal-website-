@@ -1,0 +1,156 @@
+Polipalli Rajesh- Personal Portfolio
+
+# sidebar
+
+alt = Polipalli Rajesh
+Polipalli Rajesh
+Web & App developer
+
+Show Contacts
+
+Email
+polipallirajesh10@example.com
+
+Phone
++91 8897735844
+
+Birthday
+March 08, 2004
+
+Location
+Chennai, Tamilnadu, India
+
+# navbar
+
+About
+Resume
+Projects
+Contact
+
+# about
+
+About me
+
+I'm Polipalli Rajesh  from Tamilnadu, India, working in App & web development .
+            I enjoy
+            turning complex problems into simple, beautiful and intuitive development of software industry.
+
+## service
+
+What i'm doing
+
+alt = App devlopment
+app devlopment
+The most modern and high-quality design made at a professional level.
+
+alt = Web development 
+Web development
+High-quality development of sites at the professional level.
+
+alt = communication
+communication
+I thrive in building strong professional relationships, fostering a positive work environment conducive to productivity and creativity.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+
+
+# resume
+
+Resume
+
+Education
+
+University School Of The Bachelor Of Technology
+2023 — 2026(pursing)
+● Bachelor of Technologies in Electronics and Communication Engineering . Bharath University at Chennai with 8.8 CGPA.
+
+Board Of Intermediate Education
+2020 —2022
+● Board Of Intermediate at Scholars Junior College at Rajahumdry with 70 %.
+
+High School Of Education
+2006 — 2019
+● SSC (seconadry of secondary school)at Aditya English Medium High School with 9.0 CGP
+
+Key Strengths
+
+
+● Effective Communication Skills. ● Team Work.
+● Flexibility.
+● Quick Learner.
+Traning Certificates And Internships
+Completed Python Basic to Advance at IBM and CISCO Network academy and iam pursing two Internships.
+
+Carrer Objective
+Carrer Objective: To work in a challenging environment that would facilitate the maximum utilization of my skills and in making a positive difference for myself and the organization.
+● To strive for excellence incompetence, delivery, communication & management.
+● Seeking a challenging career with the organization.
+● To make use of my interpersonal skills to achieve the goals of a company.
+● Be part of a reputed organization, which provides opportunities to enhance and utilize my knowledge and skills.
+
+
+My skills
+
+Html & css
+80%
+python
+70%
+communication
+90%
+javascript
+50%
+
+
+
+# Projects
+
+Projects
+
+All
+Wheather forecasting app
+protofoile website
+Quiz app
+comming soon....
+
+Select category
+Wheather forecasting app
+protofoile website
+Quiz app
+comming soon....
+
+alt = climate 
+climate
+Wheather forecasting app
+
+alt = personal
+personal
+my protofoile website 
+
+alt = exam 
+exam 
+Quiz app
+
+alt = Dily activaties
+Daily activaties
+Todo lists app
+
+alt =comming soon...
+comming soon..
+comming soon..
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
